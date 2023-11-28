@@ -1,0 +1,6 @@
+index_path: 'config/sku_to_vector_index.index'
+sku_file: 'config/sku_ids.pkl'
+hot_sku_file: 'config/hotsku_data.pkl'
+online_sku_file: 'config/online_data.pkl'
+
+
